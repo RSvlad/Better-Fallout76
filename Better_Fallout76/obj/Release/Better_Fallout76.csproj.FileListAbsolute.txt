@@ -1,0 +1,15 @@
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\bin\Release\Better_Fallout76.exe.config
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\bin\Release\Better_Fallout76.exe
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\bin\Release\Better_Fallout76.pdb
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.Properties.Resources.resources
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.csproj.GenerateResource.cache
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.exe
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.pdb
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.Form1.resources
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.csproj.AssemblyReference.cache
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\bin\Release\AutoUpdater.NET.dll
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\bin\Release\HockeySDK.dll
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\bin\Release\AutoUpdater.NET.pdb
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\bin\Release\AutoUpdater.NET.xml
+C:\Users\Vlada\Documents\GitHub\Better_Fallout76\Better_Fallout76\obj\Release\Better_Fallout76.csproj.CopyComplete
