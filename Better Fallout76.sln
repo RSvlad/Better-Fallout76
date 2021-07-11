@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Better_Fallout76", "Better_Fallout76\Better_Fallout76.csproj", "{BCBC089F-3A39-4A99-A16A-4B1A20F50B82}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6575CDEE-6059-4DC8-A9B4-105B9676C39D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,8 +15,6 @@ Global
 		{BCBC089F-3A39-4A99-A16A-4B1A20F50B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCBC089F-3A39-4A99-A16A-4B1A20F50B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCBC089F-3A39-4A99-A16A-4B1A20F50B82}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6575CDEE-6059-4DC8-A9B4-105B9676C39D}.Debug|Any CPU.ActiveCfg = Debug
-		{6575CDEE-6059-4DC8-A9B4-105B9676C39D}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

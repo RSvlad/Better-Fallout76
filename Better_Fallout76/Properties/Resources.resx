@@ -117,4 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Photo_2020_12_23_130333" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2020-12-23-130333.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_01_08_154948" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-01-08-154948.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_02_01_192508" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-02-01-192508.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_06_21_164219" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-06-21-164219.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_06_27_155518" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-06-27-155518.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_06_28_135608" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-06-28-135608.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_06_28_171035" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-06-28-171035.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_07_01_100839" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-07-01-100839.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_07_01_142440" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-07-01-142440.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_07_05_205438" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-07-05-205438.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Photo_2021_07_07_133358" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Photo_2021-07-07-133358.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

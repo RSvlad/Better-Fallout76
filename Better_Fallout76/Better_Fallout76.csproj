@@ -127,6 +127,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="b2af53cdaf7ee00be1a5318280da33a8_preview_featured.ico" />
+    <None Include="Resources\Photo_2021-07-07-133358.png" />
+    <None Include="Resources\Photo_2021-07-05-205438.png" />
+    <None Include="Resources\Photo_2021-07-01-142440.png" />
+    <None Include="Resources\Photo_2021-07-01-100839.png" />
+    <None Include="Resources\Photo_2021-06-28-171035.png" />
+    <None Include="Resources\Photo_2021-06-28-135608.png" />
+    <None Include="Resources\Photo_2021-06-27-155518.png" />
+    <None Include="Resources\Photo_2021-06-21-164219.png" />
+    <None Include="Resources\Photo_2021-02-01-192508.png" />
+    <None Include="Resources\Photo_2021-01-08-154948.png" />
+    <None Include="Resources\Photo_2020-12-23-130333.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

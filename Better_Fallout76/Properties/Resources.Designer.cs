@@ -59,5 +59,115 @@ namespace Better_Fallout76.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2020_12_23_130333 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2020_12_23_130333", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_01_08_154948 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_01_08_154948", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_02_01_192508 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_02_01_192508", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_06_21_164219 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_06_21_164219", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_06_27_155518 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_06_27_155518", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_06_28_135608 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_06_28_135608", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_06_28_171035 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_06_28_171035", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_07_01_100839 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_07_01_100839", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_07_01_142440 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_07_01_142440", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_07_05_205438 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_07_05_205438", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Photo_2021_07_07_133358 {
+            get {
+                object obj = ResourceManager.GetObject("Photo_2021_07_07_133358", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
