@@ -55,6 +55,7 @@ namespace Better_Fallout76
             this.checkBox5 = new System.Windows.Forms.CheckBox();
             this.label3 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.checkBox20 = new System.Windows.Forms.CheckBox();
             this.checkBox19 = new System.Windows.Forms.CheckBox();
             this.label6 = new System.Windows.Forms.Label();
             this.Fallout76Prefs = new System.Windows.Forms.Button();
@@ -65,7 +66,6 @@ namespace Better_Fallout76
             this.openFileDialog2 = new System.Windows.Forms.OpenFileDialog();
             this.Hide_UI = new System.Windows.Forms.Button();
             this.Close = new System.Windows.Forms.Button();
-            this.checkBox20 = new System.Windows.Forms.CheckBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -340,6 +340,16 @@ namespace Better_Fallout76
             this.panel1.Size = new System.Drawing.Size(555, 265);
             this.panel1.TabIndex = 30;
             // 
+            // checkBox20
+            // 
+            this.checkBox20.AutoSize = true;
+            this.checkBox20.Location = new System.Drawing.Point(345, 232);
+            this.checkBox20.Name = "checkBox20";
+            this.checkBox20.Size = new System.Drawing.Size(142, 17);
+            this.checkBox20.TabIndex = 34;
+            this.checkBox20.Text = "Disable Anti-Aliasing";
+            this.checkBox20.UseVisualStyleBackColor = true;
+            // 
             // checkBox19
             // 
             this.checkBox19.AutoSize = true;
@@ -357,7 +367,7 @@ namespace Better_Fallout76
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(86, 13);
             this.label6.TabIndex = 32;
-            this.label6.Text = "Version: 1.1.0";
+            this.label6.Text = "Version: 1.1.1";
             // 
             // Fallout76Prefs
             // 
@@ -426,16 +436,6 @@ namespace Better_Fallout76
             this.Close.Text = "Close";
             this.Close.UseVisualStyleBackColor = true;
             this.Close.Click += new System.EventHandler(this.Close_Click_1);
-            // 
-            // checkBox20
-            // 
-            this.checkBox20.AutoSize = true;
-            this.checkBox20.Location = new System.Drawing.Point(345, 232);
-            this.checkBox20.Name = "checkBox20";
-            this.checkBox20.Size = new System.Drawing.Size(142, 17);
-            this.checkBox20.TabIndex = 34;
-            this.checkBox20.Text = "Disable Anti-Aliasing";
-            this.checkBox20.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
